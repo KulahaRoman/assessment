@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: assessment
+
+server:
+  port: ${SERVER_PORT}
+
+github:
+  token: ${GITHUB_TOKEN}
